@@ -1,0 +1,23 @@
+*   b95cf4d (HEAD -> main, origin/main, origin/HEAD) Merge pull request #5 from jinny-dev-anything/e
+|\  
+| * 301ff23 (origin/e, e) e
+* |   7d11706 Merge pull request #4 from jinny-dev-anything/d
+|\ \  
+| * | afbacf5 (origin/d, d) d
+| |/  
+* |   2503c2a Merge pull request #3 from jinny-dev-anything/c
+|\ \  
+| |/  
+|/|   
+| * 3dbc658 (origin/c, c) c
+* |   678a42c Merge pull request #2 from jinny-dev-anything/b
+|\ \  
+| * | 34a5489 (origin/b, b) b
+| |/  
+* |   7e82721 Merge pull request #1 from jinny-dev-anything/a
+|\ \  
+| |/  
+|/|   
+| * 32e4227 (origin/a, a) a
+|/  
+* b1df3eb Create main.txt
